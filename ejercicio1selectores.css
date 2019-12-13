@@ -1,0 +1,81 @@
+.resaltado{
+ color:#000000;
+ background-color:#ffff00;
+ font-style:italic;
+}
+.subrayado {
+ color:#00aa00;
+ text-decoration:underline;
+}
+.tachado {
+ color:#00aa00;
+ text-decoration:line-through;
+}
+.pregunta {
+ font-family:verdana;
+ font-size:14px;
+ font-style:italic;
+ color:#0000aa;
+}
+.respuesta {
+ font-family:verdana;
+ font-size:12px;
+ font-style:normal;
+ text-align:justify;
+ color:#555555;
+}
+#titulo{
+color:#008000;
+}
+p strong{
+color:#ff0000;	
+}
+.destacado{
+	color:yellow;
+}
+#subtitulo{
+	color:blue; 
+}
+a {
+	color:red;
+}
+em{
+	color:blue;
+}
+.especial{
+	color:purple;
+}
+caption {
+	color:blue;
+}
+.especial{
+	color:yellow;
+}
+table {
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+#especial{
+	color:purple;
+}
+
+div a{
+	color:green;
+}
+
+td{
+	color:green;
+}
+td strong{
+	color:yellow;
+}
+
+th{
+	color:red;
+}
+p span.especial{
+	color:#7d2181;
+}
